@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mockServer_main" target="1.8" />
+      <module name="MockServer_main" target="1.8" />
+      <module name="mockServer_test" target="1.8" />
+      <module name="MockServer_test" target="1.8" />
+      <module name="roboRallyL_main" target="1.8" />
+      <module name="roboRallyL_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
